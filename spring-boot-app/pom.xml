@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>EmployeeDetail</groupId>
     <artifactId>employee-service</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT1</version>
     <packaging>war</packaging>
 
     <parent>
